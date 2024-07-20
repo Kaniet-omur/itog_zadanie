@@ -1,3 +1,3 @@
 # itog_zadanie
-итоговое задание №2
-~Kaniet Omuralieva, hobby - learning smth new~
+Итоговое задание №2  
+<i>Каниет Омуралиева, хобби - получение новых знаний</i>
